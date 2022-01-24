@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#415B70</color>
+    <color name="colorPrimaryDark">#17242B</color>
+    <color name="colorAccent">#8CBADF</color>
+    <color name="white">#FFF</color>
+    <color name="orange">#F44336</color>
+    <color name="black">#000</color>
+    <color name="gray">#959595</color>
+    <color name="gray_light">#B7B7B7</color>
+    <color name="red">#E91E63</color>
+
+    <color name="intro1">#6200EA</color>
+    <color name="intro2">#00C853</color>
+    <color name="intro3">#AA00FF</color>
+    <color name="intro4">#0091EA</color>
+
+    <color name="random1">#7B1FA2</color>
+    <color name="random2">#C51162</color>
+    <color name="random3">#1976D2</color>
+    <color name="random4">#00C853</color>
+    <color name="random5">#0091EA</color>
+    <color name="random6">#AA00FF</color>
+
+    <color name="event_color_01">#59dbe0</color>
+    <color name="event_color_02">#f57f68</color>
+    <color name="event_color_03">#87d288</color>
+    <color name="event_color_04">#f8b552</color>
+    <color name="event_color_05">#88f6f6</color>
+    <color name="toolbar">#efefef</color>
+    <color name="toolbar_text">#8f000000</color>
+    <color name="accent">#2789e4</color>
+</resources>

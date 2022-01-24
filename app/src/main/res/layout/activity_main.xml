@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnShowSuccess"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="18dp"
+            android:padding="12dp"
+            android:backgroundTint="@color/colorPrimary"
+            android:gravity="center"
+            android:text="Show Success"
+            android:textColor="@color/white"
+            android:textSize="12dp"
+            app:cornerRadius="8dp"
+            />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnShowWarning"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="18dp"
+            android:padding="12dp"
+            android:backgroundTint="@color/orange"
+            android:gravity="center"
+            android:text="Show Warning"
+            android:textColor="@color/white"
+            android:textSize="12dp"
+            app:cornerRadius="8dp"
+            />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnShowError"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="18dp"
+            android:padding="12dp"
+            android:backgroundTint="@color/red"
+            android:gravity="center"
+            android:text="Show Error"
+            android:textColor="@color/white"
+            android:textSize="12dp"
+            app:cornerRadius="8dp"
+            />
+
+    </LinearLayout>
+</FrameLayout>
