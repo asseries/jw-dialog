@@ -1,3 +1,3 @@
 # jw-dialog
 This is an improved type of dialogue with lottie
-file:///C:/Users/Acer%20PC/Desktop/animation.gif.mp4
+https://user-images.githubusercontent.com/98321734/150846423-6e86b8e8-973f-4ebe-84b4-23a7f411c13e.mp4
