@@ -8,19 +8,13 @@ Code author: https://github.com/JavohirYakubov
 
 dependencies {
 
-
 	        implementation 'com.github.asseries:jw-dialog:0.1.0'
-
 }
   
   
   allprojects {
-  
 		repositories {
-		
 			...
 			maven { url 'https://jitpack.io' }
-		
 		}
-		
 	}
