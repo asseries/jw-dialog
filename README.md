@@ -8,6 +8,7 @@ Code author: https://github.com/JavohirYakubov
 
 dependencies {
 	        implementation 'com.github.asseries:jw-dialog:0.1.1'
+	
 	}
   
   
