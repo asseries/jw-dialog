@@ -40,4 +40,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     implementation project(path: ':jw-dialog-library')
+
+//    implementation 'com.github.asseries:jw-dialog:0.1.0'
 }
