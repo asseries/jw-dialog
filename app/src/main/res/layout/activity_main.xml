@@ -53,5 +53,19 @@
             app:cornerRadius="8dp"
             />
 
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnShowJava"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="18dp"
+            android:padding="12dp"
+            android:backgroundTint="@color/event_color_04"
+            android:gravity="center"
+            android:text="Show Java"
+            android:textColor="@color/white"
+            android:textSize="12dp"
+            app:cornerRadius="8dp"
+            />
+
     </LinearLayout>
 </FrameLayout>
